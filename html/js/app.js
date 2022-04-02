@@ -2864,6 +2864,7 @@ var requiredItemOpen = false;
     window.onload = function(e) {
         window.addEventListener("message", function(event) {
             switch (event.data.action) {
+               
                 case "open":
                     Inventory.Open(event.data);
                     break;

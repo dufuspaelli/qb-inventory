@@ -21,8 +21,10 @@ ui_page {
 
 files {
 	'html/ui.html',
+	'html/ui2.html',
 	'html/css/main.css',
 	'html/js/app.js',
+	'html/js/app2.js',
 	'html/images/*.png',
 	'html/images/*.jpg',
 	'html/ammo_images/*.png',
